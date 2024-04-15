@@ -1,5 +1,5 @@
-WebJar for WEBJAR_NAME
+WebJar for DataTables - SearchPanes
 
 More info: http://webjars.org
 
-Upstream: WEBJAR_URL
+Upstream: https://github.com/DataTables/SearchPanes
